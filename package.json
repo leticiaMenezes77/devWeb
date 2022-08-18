@@ -1,0 +1,16 @@
+{
+  "name": "version",
+  "version": "1.0.0",
+  "description": "web app com Node,js",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "author": "Leticia",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1"
+  }
+}
